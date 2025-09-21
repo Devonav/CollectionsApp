@@ -4,7 +4,7 @@ Course: COP3330.CRN12565
 Date: 9/6/2023
 
 Program Objective
-This Java program demonstrates the usage of major classes in the Collections framework. It performs various operations on a list of names, including sorting, shuffling, searching, and converting between lists and arrays.
+This Java program demonstrates the usage of major classes in the Collections framework. It performs various operations on a list of names, including sorting, shuffling, searching, and converting between lists and arrays:
 
 Features
 List Creation: Initializes a list of eight names.
